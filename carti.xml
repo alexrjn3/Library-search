@@ -1,0 +1,22 @@
+<biblioteca>
+	<carte>
+		<autor>Ion Creanga</autor>
+		<titlu>Amintiri din copilarie</titlu>
+		<nrBucati>21</nrBucati>
+	</carte>
+	<carte> 
+		<autor>Ioan Slavici</autor> 
+		<titlu>Budulea Taichii</titlu> 
+		<nrBucati>8</nrBucati> 
+	</carte>
+	<carte> 
+		<autor>Ioan Slavici</autor> 
+		<titlu>Moara cu noroc</titlu> 
+		<nrBucati>33</nrBucati> 
+	</carte>  
+	<carte>
+		<autor>Mihail Sadoveanu</autor>
+		<titlu>Baltagul</titlu>
+		<nrBucati>18</nrBucati>
+	</carte>
+</biblioteca>
